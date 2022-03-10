@@ -24,7 +24,7 @@ public class CrudCargoService {
 			System.out.println("1 - Salvar");
 			System.out.println("2 - Atualizar");
 			System.out.println("3 - Visualizar");
-			System.out.println("4 - Deletar");
+			System.out.println("4 - Deletar!");
 			
 			int action = scanner.nextInt();
 			switch(action) {
